@@ -1,0 +1,39 @@
+{
+    "title" : "Create employee form",
+    "type" : "employees",
+    "attributes" :
+    [
+        {
+            "name" : "first_name",
+            "displayName" : "First Name"
+        },
+        {
+            "name" : "last_name",
+            "displayName" : "Last Name"
+        },
+        {
+            "name" : "email",
+            "displayName" : "Email"
+        },
+        {
+            "name" : "phone",
+            "displayName" : "Phone"
+        },
+        {
+            "name" : "organization",
+            "displayName" : "Organization"
+        },
+        {
+            "name" : "designation",
+            "displayName" : "Designation"
+        },
+        {
+            "name" : "salary",
+            "displayName" : "Salary"
+        },
+        {
+            "name" : "status",
+            "displayName" : "Status"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+.form-field {
+    width: 50%;
+}
+
+.form-field input {
+    width: 75%;
+}
+
+.btn-primary {
+    background-color: #00BFFF;
+    border-color: #3ac162;
+    font-weight: bold;
+    padding: 5px 15px;
+    color: #ffffff;
+    margin-top: 10px;
+    outline: none;
+}

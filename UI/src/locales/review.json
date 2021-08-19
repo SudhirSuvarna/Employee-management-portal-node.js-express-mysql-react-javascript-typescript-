@@ -1,0 +1,43 @@
+{
+    "title" : "Create performance review form",
+    "type" : "reviews",
+    "attributes" :
+    [
+        {
+            "name" : "employee_id",
+            "displayName" : "Employee ID"
+        },
+        {
+            "name" : "employee_name",
+            "displayName" : "Employee Name"
+        },
+        {
+            "name" : "email",
+            "displayName" : "Email"
+        },
+        {
+            "name" : "department",
+            "displayName" : "Department"
+        },
+        {
+            "name" : "designation",
+            "displayName" : "Designation"
+        },
+        {
+            "name" : "year",
+            "displayName" : "Year"
+        },
+        {
+            "name" : "description",
+            "displayName" : "Description"
+        },
+        {
+            "name" : "salary",
+            "displayName" : "Salary"
+        },
+        {
+            "name" : "status",
+            "displayName" : "Status"
+        }
+    ]
+}
